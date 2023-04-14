@@ -7,7 +7,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/i-djaini/Spam-Tools
+$ git clone https://github.com/BlueHackkers/Spam-Tools
 
 $ cd Spam-Tools
 
